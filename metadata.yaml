@@ -1,0 +1,31 @@
+_repo: A-Thousand-and-One-Afternoons-in-Chicago_7988
+creator:
+  author:
+    agent_name: Hecht, Ben
+    birthdate: 1894
+    deathdate: 1964
+    gutenberg_agent_id: '2616'
+    url: http://www.gutenberg.org/2009/agents/2616
+    wikipedia: http://en.wikipedia.org/wiki/Ben_Hecht
+description: In 1921, Ben Hecht wrote a column for the Chicago Daily News that his
+  editor called "journalism extraordinary; journalism that invaded the realm of literature."
+  Hecht's collection of sixty-four of these pieces, illustrated with striking pen
+  drawings by Herman Rosse, is a timeless caricature of urban American life in the
+  jazz age, updated with a new Introduction for the twenty-first century. From the
+  glittering opulence of Michigan Avenue to the darkest ruminations of an escaped
+  convict, from captains of industry to immigrant day laborers, Hecht captures 1920s
+  Chicago in all its furor, intensity, and absurdity.
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7988'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hecht, Ben, 1893-1964 -- Homes and haunts -- Illinois -- Chicago'
+- !lcsh 'Chicago (Ill.) -- Literary collections'
+- !lcc 'PS'
+title: A Thousand and One Afternoons in Chicago
+url: http://www.gutenberg.org/ebooks/7988
