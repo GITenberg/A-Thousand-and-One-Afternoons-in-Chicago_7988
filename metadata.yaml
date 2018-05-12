@@ -1,4 +1,8 @@
 _repo: A-Thousand-and-One-Afternoons-in-Chicago_7988
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hecht, Ben
@@ -15,6 +19,8 @@ description: In 1921, Ben Hecht wrote a column for the Chicago Daily News that h
   glittering opulence of Michigan Avenue to the darkest ruminations of an escaped
   convict, from captains of industry to immigrant day laborers, Hecht captures 1920s
   Chicago in all its furor, intensity, and absurdity.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7988#A-Thousand-and-One-Afternoons-in-Chicago
 gutenberg_issued: '2005-04-01'
 gutenberg_type: Text
 identifiers:
